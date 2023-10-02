@@ -5,8 +5,8 @@ Homebrew makes it somewhat difficult to install older version of packages. This 
 ## How to install a package
 
 ```
-brew tap bagonyi/homebrew-formulae git@github.com:bagonyi/homebrew-formulae.git
-brew extract --version=1.22 leveldb bagonyi/formulae
+brew tap robertmin1/homebrew-formulae git@github.com:robertmin1/homebrew-formulae.git
+brew extract --version=1.22 leveldb robertmin1/formulae
 brew install leveldb@1.22
 ```
 
